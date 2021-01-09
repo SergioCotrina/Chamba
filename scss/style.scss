@@ -1,0 +1,29 @@
+$color-primario: black;
+$color-secundario: orange;
+
+
+
+.bg-transparent{
+    transition: all 2s ease;
+    background-color: transparent !important;
+
+    .scrolled { 
+    background: #4a5649 !important;
+}
+}
+
+col {
+    justify-content: center;
+}
+
+p{
+    color: $color-secundario;
+    font: {
+        family: verdana;
+        weight: bold;
+        size: 20px;
+
+    }
+}
+
+

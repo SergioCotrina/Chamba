@@ -1,0 +1,20 @@
+.bg-transparent {
+  transition: all 2s ease;
+  background-color: transparent !important;
+}
+.bg-transparent .scrolled {
+  background: #4a5649 !important;
+}
+
+col {
+  justify-content: center;
+}
+
+p {
+  color: orange;
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
